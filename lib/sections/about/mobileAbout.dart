@@ -50,7 +50,7 @@ class AboutMobile extends StatelessWidget {
             height: height * 0.028,
           ),
           Text(
-            "I'm Abhigyan Singh, a Flutter developer and am currently studying DSA and Python ",
+            "I'm Abhigyan Singh, a Flutter developer currently studying Data Structures and Algorithms",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.022,
               fontWeight: FontWeight.w400,

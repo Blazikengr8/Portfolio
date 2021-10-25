@@ -48,7 +48,7 @@ class AboutTab extends StatelessWidget {
             height: height * 0.032,
           ),
           Text(
-            "I'm Abhigyan Singh, a Flutter developer and am currently studying DSA and Python ",
+            "I'm Abhigyan Singh, a Flutter developer currently studying Data Structures and Algorithms",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.035,
               fontWeight: FontWeight.w400,

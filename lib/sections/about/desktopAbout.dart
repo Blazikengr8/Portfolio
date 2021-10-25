@@ -55,7 +55,7 @@ class AboutDesktop extends StatelessWidget {
                         height: height * 0.03,
                       ),
                       AdaptiveText(
-                        "I'm Abhigyan Singh, a Flutter developer, Technical blog writer and UI designer.",
+                        "I'm Abhigyan Singh, a Flutter developer currently studying Data Structures and Algorithms",
                         style: GoogleFonts.montserrat(
                           fontSize: height * 0.035,
                           fontWeight: FontWeight.w400,

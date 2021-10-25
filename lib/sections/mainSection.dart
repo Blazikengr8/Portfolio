@@ -237,8 +237,7 @@ class _MainPageState extends State<MainPage> {
                   side: BorderSide(color: kPrimaryColor)),
               onPressed: () {
                 html.window.open(
-                    'https://drive.google.com/file/d/1GF-wtbu2ob_Uxhw2In2QA8QiYi3XjCj1/view?usp=sharing',
-                    "pdf");
+                    "https://docs.google.com/document/d/1Qiw02OS4dyHmJ-GKMPdlInw1YzAXMpEq/edit?usp=sharing&ouid=115077918941615428920&rtpof=true&sd=true","docx");
               },
               child: Text(
                 "RESUME",
